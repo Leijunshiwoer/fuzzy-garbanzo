@@ -1,0 +1,16 @@
+D:\SourceCode\VSCode_C#\myproject001\obj\Debug\net5.0\myproject001.csproj.AssemblyReference.cache
+D:\SourceCode\VSCode_C#\myproject001\obj\Debug\net5.0\myproject001.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceCode\VSCode_C#\myproject001\obj\Debug\net5.0\myproject001.AssemblyInfoInputs.cache
+D:\SourceCode\VSCode_C#\myproject001\obj\Debug\net5.0\myproject001.AssemblyInfo.cs
+D:\SourceCode\VSCode_C#\myproject001\obj\Debug\net5.0\myproject001.csproj.CoreCompileInputs.cache
+D:\SourceCode\VSCode_C#\myproject001\bin\Debug\net5.0\myproject001.exe
+D:\SourceCode\VSCode_C#\myproject001\bin\Debug\net5.0\myproject001.deps.json
+D:\SourceCode\VSCode_C#\myproject001\bin\Debug\net5.0\myproject001.runtimeconfig.json
+D:\SourceCode\VSCode_C#\myproject001\bin\Debug\net5.0\myproject001.runtimeconfig.dev.json
+D:\SourceCode\VSCode_C#\myproject001\bin\Debug\net5.0\myproject001.dll
+D:\SourceCode\VSCode_C#\myproject001\bin\Debug\net5.0\ref\myproject001.dll
+D:\SourceCode\VSCode_C#\myproject001\bin\Debug\net5.0\myproject001.pdb
+D:\SourceCode\VSCode_C#\myproject001\obj\Debug\net5.0\myproject001.dll
+D:\SourceCode\VSCode_C#\myproject001\obj\Debug\net5.0\ref\myproject001.dll
+D:\SourceCode\VSCode_C#\myproject001\obj\Debug\net5.0\myproject001.pdb
+D:\SourceCode\VSCode_C#\myproject001\obj\Debug\net5.0\myproject001.genruntimeconfig.cache
